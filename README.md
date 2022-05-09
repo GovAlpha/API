@@ -7,8 +7,8 @@ The GovAlpha API is a comprehensive source of U.S. federal government contract a
 | Contract IDVs                   | 1M+ |
 | Prime Contract Awards           | 60M+ |
 | Subcontract Awards              | 800K+ |
-| Prime Grant Awards              | ~4M+ |
-| Subgrant Awards                 | ~3M+ |
+| Prime Grant Awards              | 4M+ |
+| Subgrant Awards                 | 3M+ |
 | Contract Vehicles               | 4K+|
 | Contract Opportunities          | 4M+|
 | Grant Opportunities             | 60K+|
