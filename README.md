@@ -12,7 +12,7 @@ The GovAlpha API is a comprehensive source of U.S. federal government contract a
 | Contract Vehicles               | 4K+|
 | Contract Opportunities          | 4M+|
 | Grant Opportunities             | 60K+|
-| Documents                       | 3M+ (Contract and Grant RFP, Federal Schedules, Protest Decisions)|
+| Documents                       | 3M+ (Contract and Grant RFPs, Federal Schedules, Protest Decisions)|
 | Agencies                        | 3K+ |
 | People                          | 130K+ |
 | Defense Programs                | 200+|
