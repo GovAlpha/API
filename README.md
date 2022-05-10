@@ -3,7 +3,7 @@ The GovAlpha API is a comprehensive source of U.S. federal government contract a
 
 | Type                            | Coverage                                                                                |
 | --------------------------------|-----------------------------------------------------------------------------------------|
-| Awardees                        | 1.5+ Million (Including Parent / Child Subsidiary Relationships) |
+| Awardees                        | 1.5M+ (Including Parent / Child Subsidiary Relationships) |
 | Contract IDVs                   | 1M+ |
 | Prime Contract Awards           | 60M+ |
 | Subcontract Awards              | 800K+ |
