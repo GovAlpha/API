@@ -25,7 +25,7 @@ The GovAlpha API is a comprehensive source of U.S. federal government contract a
 API Access requires an active subscription with GovAlpha at: https://www.govalpha.com and API Access Tokens can be generated within the Account menu.  
 
 ## Documentation
-Please note that the API is in a closed Beta until Fall 2022 and documentation will not be publicly available until that time.
+Please note that the API is in a closed Beta until Fall 2022 and documentation will not be publicly available until that time.  Documentation will be available at: https://app.swaggerhub.com/apis-docs/GovAlpha/GovAlpha-API/1.0.0
 
 ## Update Frequency
 Data is generally updated as frequently as underlying data sources.  For example, Contract Opportunities are updated every 15 minutes and Contract Awards are updated daily.
